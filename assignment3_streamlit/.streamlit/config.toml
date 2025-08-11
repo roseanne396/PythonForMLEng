@@ -1,0 +1,5 @@
+[server]
+port = 9004
+address = "127.0.0.1"
+enableXsrfProtection = true
+enableCORS = true
